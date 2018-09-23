@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{ED3C91E1-1F4C-8A7C-19AE-3EA7DFB67ED5}</ProjectGuid>
+    <ProjectGuid>{DCF3C053-FD64-6F65-DCA8-AFB866018BF2}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -61,21 +61,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NewBehaviourScript.cs" />
+    <Compile Include="Assets\MovingObjectScript.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/sarra/Downloads/DIG_3480_Rolling_Ball-master/DIG_3480_Rolling_Ball-master/Rolling_Ball/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/sarra/Documents/GitHub/Challenge-RollABall/RollaBall/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/sarra/Downloads/DIG_3480_Rolling_Ball-master/DIG_3480_Rolling_Ball-master/Rolling_Ball/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/sarra/Documents/GitHub/Challenge-RollABall/RollaBall/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/sarra/Downloads/DIG_3480_Rolling_Ball-master/DIG_3480_Rolling_Ball-master/Rolling_Ball/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/sarra/Documents/GitHub/Challenge-RollABall/RollaBall/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/sarra/Downloads/DIG_3480_Rolling_Ball-master/DIG_3480_Rolling_Ball-master/Rolling_Ball/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/sarra/Documents/GitHub/Challenge-RollABall/RollaBall/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
